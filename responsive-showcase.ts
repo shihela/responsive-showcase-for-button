@@ -7,10 +7,10 @@
         <img src="https://img.icons8.com/ios-filled/24/FFFFFF/monitor.png" alt="Desktop">
       </button>
       <button class="frame-option" data-view="tablet" title="Tablet">
-        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/tab.png" alt="Tablet">
+        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/ipad.png" alt="Tablet">
       </button>
       <button class="frame-option" data-view="phone" title="Phone">
-        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/phone.png" alt="Phone">
+        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/iphone.png" alt="Phone">
       </button>
     </div>
     <div class="iframe-container desktop">
