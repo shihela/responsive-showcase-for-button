@@ -114,10 +114,11 @@
   }
 
   /* Tampilan Desktop */
-  .iframe-container.desktop iframe {
-    width: 100%;
-    height: 100%;
-    transform: scale(1);
+  .iframe-container.desktop {
+    width: 1280px; /* Set a larger width for scaling */
+    height: 800px; /* Set a larger height for scaling */
+    transform: scale(0.78); /* Scale down to fit */
+    transform-origin: top left; /* Scale from the top left */
   }
 
   /* Tambahkan batas tinggi pada tablet dan phone */
