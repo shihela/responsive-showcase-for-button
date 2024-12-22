@@ -38,7 +38,7 @@
     background: black;
     border-radius: 10px;
     width: 90%;
-    max-width: 1000px;
+    max-width: 1048px;
     max-height: 80%; /* Membatasi tinggi maksimum menjadi 80% layar */
     position: relative;
     display: flex;
@@ -115,10 +115,9 @@
 
   /* Tampilan Desktop */
   .iframe-container.desktop {
-    width: 1280px; /* Set a larger width for scaling */
-    height: 800px; /* Set a larger height for scaling */
-    transform: scale(0.78); /* Scale down to fit */
-    transform-origin: top left; /* Scale from the top left */
+    width: 100%; /* Set a larger width for scaling */
+    height: 100%; /* Set a larger height for scaling */
+    transform: scale(1); /* Scale down to fit */
   }
 
   /* Tambahkan batas tinggi pada tablet dan phone */
